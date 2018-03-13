@@ -1,0 +1,28 @@
+﻿body {
+    font-family: Verdana, Helvetica, Sans-Serif;
+}
+
+div table#gridView_Schedule {
+    width: 985px;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+    margin: 0 auto;
+}
+
+    div table#gridView_Schedule th {
+        font-size: .6em;
+    }
+
+    div table#gridView_Schedule td {
+        font-size: .7em;
+        text-align: center;
+    }
+
+.closed {
+    background-color: #FF0000;
+}
+
+.lab {
+    background-color: #c90;
+}
+
