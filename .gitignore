@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ClassSchedule/.vs/ClassSchedule
+/ClassSchedule/ClassSchedule/obj/Debug
+/ClassSchedule/ClassSchedule/.vs
+/ClassSchedule/ClassSchedule/bin
+/ClassSchedule/packages
